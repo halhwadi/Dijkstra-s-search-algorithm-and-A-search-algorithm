@@ -9,10 +9,9 @@
 [View Source Code](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/Dijkstra's%20search%20algorithm%20and%20A%20search%20algorithm.ipynb)
 
 <br>
-We're going to be focusing on planning in Berkeley, California, between the two nodes given below. After running the code up to and includeing the box below, you should see the output of the shortest path between the two points
-
+We're going to be focusing on planning in Berkeley, California, between the two nodes given below. 
 <br>
-![](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/path.jpg)
+![path](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/path.jpg)
 <br></br>
 
 
