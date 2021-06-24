@@ -1,8 +1,8 @@
 <b>Topics:</b>
 
-\* Implement Dijkstra&#39;s search algorithm on a road network graph.
+1- Implement Dijkstra&#39;s search algorithm on a road network graph.
 
-\* Implement the A\* search algorithm using a Euclidean heuristic on a road network graph.
+2- Implement the A\* search algorithm using a Euclidean heuristic on a road network graph.
 
 Note: This Implementation is little bit different than the standard one&#39;s mentioned below ( We dropped closed and cost dictionaries) 
 
