@@ -8,9 +8,9 @@
 
 [View Source Code](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/Dijkstra's%20search%20algorithm%20and%20A%20search%20algorithm.ipynb)
 
-<br>
+<br></br>
 We're going to be focusing on planning in Berkeley, California, between the two nodes given below. 
-<br>
+<br></br>
 ![path](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/path.jpg)
 <br></br>
 
