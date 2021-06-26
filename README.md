@@ -5,7 +5,7 @@
 2- Implement the A\* search algorithm using a Euclidean heuristic on a road network graph.
 
 <br></br>
-We're going to be focusing on planning in Emirate of Ajman, UAE, between the two nodes given below by using open street map and compare our results with shortest path getting from open street map (you can try different path to check the algorithm valdity) 
+We're going to be focusing on planning in Emirate of Ajman, UAE, between the two nodes given below by using open street map and compare our results with shortest path getting from open street map (<b> You can try different path to check the algorithm valdity</b>) 
 <br></br>
 ![path](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/map.jpg)
 <br></br>
