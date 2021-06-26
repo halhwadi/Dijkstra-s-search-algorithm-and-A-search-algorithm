@@ -34,7 +34,7 @@ First, let&#39;s focus on Dijkstra&#39;s algorithm.
 ![path](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/map.jpg)
 
 <br></br>
-The following flow demonstrates the A\* search algorithm (note: we have used dictonary for distance_heuristic instead of cumulative distance)
+The following flow demonstrates the A\* search algorithm (note: we have used dictonary for distance_heuristic instead of cost distance)
 <br></br>
 
 
