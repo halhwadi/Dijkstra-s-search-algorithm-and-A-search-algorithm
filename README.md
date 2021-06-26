@@ -29,11 +29,20 @@ The following flow demonstrates the Dijkstra algorithm
 First, let&#39;s focus on Dijkstra&#39;s algorithm.
 
 ![Dijkstra&#39;s Pseudocode](dijkstra.png)
+<br></br>
+<b>Results of Dijkstra </b>
+![path](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/map.jpg)
 
 <br></br>
 The following flow demonstrates the A\* search algorithm (note: we have used dictonary for distance_heuristic instead of cumulative distance)
 <br></br>
 
+
 ## A\* search on our map standard algorithm
 
 ![A\* Pseudocode](a\_star.png)
+
+<br></br>
+<b>Results of A\* search </b>
+![path](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/map.jpg)
+<br></br>
