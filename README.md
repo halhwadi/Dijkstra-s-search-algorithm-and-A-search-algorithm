@@ -31,7 +31,7 @@ First, let&#39;s focus on Dijkstra&#39;s algorithm.
 ![Dijkstra&#39;s Pseudocode](dijkstra.png)
 
 <br></br>
-The following flow demonstrates the A\* search algorithm (note: we have used dictonary for cumulative distance instead of cost dictonary)
+The following flow demonstrates the A\* search algorithm (note: we have used dictonary for distance_heuristic instead of cumulative distance)
 <br></br>
 
 ## A\* search on our map standard algorithm
