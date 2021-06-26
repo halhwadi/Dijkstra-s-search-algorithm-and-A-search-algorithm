@@ -23,8 +23,6 @@ for more more details refer to
 [Source Code](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/Dijkstra's%20search%20algorithm%20and%20A%20search%20algorithm.ipynb)
 
 <br></br>
-The following flow demonstrates the Dijkstra algorithm
-<br></br>
 ## Dijkstra&#39;s Search standard algorithm
 
 First, let&#39;s focus on Dijkstra&#39;s algorithm.
