@@ -31,6 +31,7 @@ First, let&#39;s focus on Dijkstra&#39;s algorithm.
 ![Dijkstra&#39;s Pseudocode](dijkstra.png)
 <br></br>
 <b>Results of Dijkstra </b>
+<br></br>
 ![path](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/map.jpg)
 
 <br></br>
@@ -44,5 +45,6 @@ The following flow demonstrates the A\* search algorithm (note: we have used dic
 
 <br></br>
 <b>Results of A\* search </b>
+<br></br>
 ![path](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/map.jpg)
 <br></br>
