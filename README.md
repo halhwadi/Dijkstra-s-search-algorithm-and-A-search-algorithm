@@ -17,7 +17,7 @@ We will be relying on the [OSMNX library](https://osmnx.readthedocs.io/en/stable
 
 <br></br>
 
-<b>Full details</b>
+<b>Full Implementation Details</b>
 <br></br>
 for more more details refer to 
 [Source Code](https://github.com/halhwadi/Dijkstra-s-search-algorithm-and-A-search-algorithm/blob/main/Dijkstra's%20search%20algorithm%20and%20A%20search%20algorithm.ipynb)
